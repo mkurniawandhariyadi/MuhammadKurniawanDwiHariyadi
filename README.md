@@ -3,7 +3,6 @@
 Perkenalkan nama saya **Muhammad Kurniawan Dwi Hariyadi**.<br>
 Saya seorang **Mahasiswa** di Universitas Trunojoyo Madura.<br>
 
-(Gunakan tema gelap untuk menemukan media sosial saya ;)
 <br />
 
 <a href="https://linkedin.com/in/muhammadkurniawan-dwihariyadi" target="_blank">
