@@ -33,6 +33,7 @@ Saya seorang **Mahasiswa** di Universitas Trunojoyo Madura.<br>
 <a href="https://www.java.com/" target="_blank"> <img align="left" alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/> </a>
 <a href="https://kotlinlang.org/" target="_blank"> <img align="left" alt="Kotlin" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"/> </a>
 <a href="https://developer.android.com/jetpack/compose" target="_blank"> <img align="left" alt="Jetpack Compose" width="26px" src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png"/> </a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" alt="Firebase" width="18px" src="https://firebase.google.com/downloads/brand-guidelines/SVG/logo-logomark.svg"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 <br />
