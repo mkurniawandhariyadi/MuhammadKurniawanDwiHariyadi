@@ -38,6 +38,7 @@ Saya seorang **Mahasiswa** di Universitas Trunojoyo Madura.<br>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 <br />
 <br />
+<br />
 
 ### Softwares:
 
