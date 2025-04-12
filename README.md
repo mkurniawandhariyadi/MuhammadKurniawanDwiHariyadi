@@ -2,8 +2,7 @@
 
 Perkenalkan nama saya **Muhammad Kurniawan Dwi Hariyadi**.<br>
 Saya seorang **Mahasiswa** di Universitas Trunojoyo Madura.<br>
-Currently studying at Bangkit Academy with the Mobile Development learning path.<br>
-#LifeAtBangkit 🔥🔥 <br>
+Alumni Bangkit Academy dengan Mobile Development learning path batch 6.<br>
 
 <br />
 
