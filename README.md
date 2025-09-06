@@ -2,7 +2,8 @@
 
 Perkenalkan nama saya **Muhammad Kurniawan Dwi Hariyadi**.<br>
 Saya seorang **Mahasiswa** di **Universitas Trunojoyo Madura**.<br>
-Fokus pada **Native Mobile** dengan **Kotlin**, **Web** dengan **Laravel** & **Flask API**, dan **Text Mining**
+Bisa **Native Mobile** dengan **Kotlin**, **Web** dengan **Laravel** & **Flask API**, dan **Text Mining**
+Fokus **Backend (Golang, Rust, Docker)**
 
 <br />
 
